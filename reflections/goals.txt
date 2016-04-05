@@ -1,0 +1,15 @@
+Before writing about my goals I want to talk about my motivations. I'm actually learning this backwards - I've previously taken a course of ruby on rails on Udemy and developed a E-Model UN platform web app with my friend. (https://emodelun.herokuapp.com/)
+
+However, I feel that I've wasted tons of time while building that app trying to figure out how to implement some new features because I lacked a solid Ruby foundation - the Udemy course was very project-oriented, and the instructor there did not explain many important underlining concepts - I just kind of followed along and did what he was doing.
+
+I got into ruby 2 months ago and I feel what I know right now is very shallow - I couldn't do anything independent, and I even have trouble following online tutorials.
+
+That's why I decided to take 3 Udacity Nanodegree on Ruby - I almost finished the Machine Learning Engineer Nanodegree and I feel that I like Udacity a lot better than other online platforms or resources. So my first goal is to build a solid foundation in the Ruby language.
+
+Second goal - I decide to build an web app for my dog. She died a month ago, and I wanted to build a place to post her stories - actually I want to turn it into a platform where people can mourn their pets.
+
+Third goal - Build more. I don't want my github student pack to go waste - free cloud services, hosting and etc.
+
+Fourth goal - I just got my business undergraduate degree but I always have strong passion in techs. I will try my best to become a professional Ruby developer (or Web Developer in general) and build whatever I want with Ruby - I'm also learning Javascript by the way.
+
+Fifth goal - Plan time for the 3 Ruby Nanos and finish them on time.

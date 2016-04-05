@@ -1,0 +1,17 @@
+Have you tried learning a programming language before?
+
+Not officially. I've never taken a college level CS class before, but I did learn a lot programming languages as interest - python, R, Java, Matlab. I also learned SQL, Hive, Spark for my data science hobbies - I sometimes attend competitions on Kaggle. Other than that I know a little bit C for programming my IoTs. I know Html5, CSS and Javascript as well. I learned some of the front end language when I was doing my e-commerce business at 15 - I had to learn it to decorate my e-store.
+
+Was any part of it difficult for you?
+
+Yeah, recursive functions and some algorithms make me feel uncomfortable. I also don't know how to learn Regex (I finished the Regex course on Codeschool.com, but keep forgetting it). I would say the only thing I'm good (like intermediate) at is Python because I had to do a lot of data science projects with it. For other languages I feel that I'm stuck, meaning not good enough to do meaningful projects but not bad enough to relearn the basics. I have trouble dive deeper into them (One example is Javascript).
+I find programming more intuitive than hard - probably because I was a hard-core gamer, and I have the same attitude towards all the interesting things I learned - I would spend a lot of time on them.
+
+Is there anything about being a Ruby developer you’d like to know more about?
+
+Yeah. Ruby vs Javascript for web dev, pros and cons, really need some insights. Real world applications.
+
+Javascript got D3.js, does Ruby also have something for data visualization?
+
+Recommendation about Ruby IDE? For some reasons the ruby auto-completion package is super slow on my Atom.
+Local vs Cloud (Nitrous, c9)?
